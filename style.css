@@ -1,0 +1,241 @@
+* {
+    margin: 0; 
+    padding: 0; 
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.logo {
+    position: absolute;
+    float: left; 
+    color: white; 
+    margin-left: 30px; 
+    margin-top: 20px; 
+    font-size: 1.2rem;
+    font-weight: 300;
+    letter-spacing: 3px; 
+    cursor: pointer;
+}
+
+
+.main-image {
+    width: 1500px; 
+    height: 600px; 
+    margin-top: -35px;
+    opacity: 1;
+}
+
+.navigation-menu ul {
+    position: absolute; 
+    margin-top: -855px; 
+    margin-left: 900px; 
+}
+
+.navigation-menu ul li {
+    display: inline-block;
+    padding: 15px;
+}
+
+.navigation-menu ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.navigation-menu button {
+    border: none; 
+    background-color: gray;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.navigation-menu button a {
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1.0rem;
+}
+
+.sustain {
+    position: absolute;
+    color: white;
+    font-size: 1.5rem;
+    margin-top: -600px;
+    margin-left: 580px;
+}
+
+.starts {
+    position: absolute;
+    color: white;
+    font-size: 3.5rem;
+    margin-top: -530px;
+    margin-left: 455px; 
+}
+
+section .learn-more {
+    position: absolute;
+    border: none;
+    background-color: gray;
+    padding: 20px; 
+    border-radius: 8px;
+    color: white;
+    font-size: 1.0rem;
+    font-weight: 600;
+    margin-top: -400px;
+    margin-left: 587px;
+    cursor: pointer; 
+}
+
+.text .conserve {
+    line-height:1; 
+    padding: 20px; 
+    margin-top: 35px; 
+    text-align: center;
+    font-size: 2.3rem; 
+    font-weight: 600; 
+}
+
+.text .paragraph {
+    padding: 20px; 
+    margin-top: 20px; 
+    text-align: center;
+}
+
+#image-1, #image-2 {
+    height: 3rem; 
+
+}
+
+/* main */
+
+
+#organization {
+    text-align: right; 
+    padding: 15px; 
+    margin-right: 10rem; 
+    margin-top: 22px; 
+}
+
+#find-out {
+    text-align: right; 
+    margin-right: 10rem; 
+    padding: 15px; 
+    letter-spacing: 1px; 
+    font-size: 17px; 
+    justify-content: center;
+}
+
+#image-1 {
+    height: 400px;
+    width: 500px; 
+    padding-top: 25px; 
+    position: absolute; 
+    margin-left: 75px;
+}
+
+
+.images-and-texts-1 button {
+    position: absolute; 
+    margin-left: 1040px;
+    margin-top: 30px; 
+    border: none;
+    background-color: gray;
+    padding: 20px; 
+    border-radius: 8px;
+    color: white;
+    font-size: 1.0rem;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+
+
+
+#ready {
+    position: absolute;
+    text-align: left; 
+    margin-left: 05rem; 
+    padding: 15px; 
+    letter-spacing: 1px; 
+    font-size: 17px; 
+    margin-top: 550px; 
+}
+
+
+#image-2 {
+    height: 400px;
+    width: 500px; 
+    padding-top: 25px; 
+    position: absolute; 
+    margin-left: 750px;
+    margin-top: 450px; 
+}
+
+.images-and-texts-2 button {
+    position: absolute; 
+    margin-left: 95px;
+    margin-top: 650px; 
+    border: none;
+    background-color: gray;
+    padding: 20px; 
+    border-radius: 8px;
+    color: white;
+    font-size: 1.0rem;
+    font-weight: 600;
+}
+
+#take-action {
+    position: absolute;
+    text-align: left; 
+    padding: 15px; 
+    margin-top: 490px; 
+    margin-left: 80px; 
+}
+
+/* WEBSITE FOOTER */
+
+#subscribe {
+    background-color: rgb(197, 195, 195);
+    position: absolute;
+    margin-top: 950px;
+    width: 1350px;
+    height: 130px;
+    padding: 60px;
+}
+
+#subscribe h1 {
+    position: absolute;
+    margin-left: 550px; 
+}
+
+#subscribe p {
+    position: absolute;
+    margin-top: 55px;
+    margin-left: 400px;
+}
+
+#email-information-input input {
+    position: absolute;
+    margin-top: 1110px;
+    margin-left: 550px;
+    border: none;
+    padding: 15px;  
+}
+
+#email-information-input button {
+    position: absolute;
+    margin-top: 1105px;
+    margin-left: 780px;
+    border: none;
+    background-color: gray;
+    padding: 20px; 
+    border-radius: 8px;
+    color: white;
+    font-size: 1.0rem;
+    font-weight: 600;
+    cursor: pointer;
+}
+
